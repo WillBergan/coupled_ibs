@@ -13,3 +13,10 @@ authors:
     email: wbergan@bnl.gov
     affiliation: Brookhaven National Laboratory (BNL)
     orcid: 'https://orcid.org/0000-0002-0212-0132'
+identifiers:
+  - type: url
+    value: 'https://github.com/WillBergan/coupled_ibs'
+repository-code: 'https://github.com/WillBergan/coupled_ibs'
+abstract: >-
+  Implements the coupled IBS method of V. Lebedev and S.
+  Nagaitsev, arXiv:1812.09275
