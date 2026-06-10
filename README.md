@@ -1,5 +1,7 @@
 # coupled_ibs
-Simple code for calculating IBS growth rates for a lattice with coupling
+Simple code for calculating IBS growth rates for a lattice with coupling.
+
+This implements the method developed by V. Lebedev and S. Nagaitsev in "Multiple Intrabeam Scattering in x-y Coupled Focusing Systems," arXiv:1812.09275v5
 
 Run with:
 
