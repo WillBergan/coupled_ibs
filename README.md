@@ -5,6 +5,6 @@ This implements the method developed by V. Lebedev and S. Nagaitsev in "Multiple
 
 Run with:
 
-python ibs_with_coupling_many_hsr.py hsr_cs_params_1k.txt
+python3 ibs_with_coupling_many_hsr.py hsr_cs_params_1k.txt
 
 The input file is for an uncoupled lattice, so we add in coupling artificially as a test.
